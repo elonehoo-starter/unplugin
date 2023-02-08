@@ -1,3 +1,3 @@
-# static
+# starter-unplugin
 
-Host for static files
+Starter template for unplugin
