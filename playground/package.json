@@ -1,16 +1,16 @@
 {
   "type": "module",
   "private": "true",
-  "scripts": {
-    "dev":"vite"
-  },
   "author": "Elone Hoo <hi@elonehoo.me>",
   "license": "MIT",
-  "devDependencies": {
-    "vite": "^4.1.1",
-    "vite-plugin-inspect": "^0.7.15"
+  "scripts": {
+    "dev": "vite"
   },
   "dependencies": {
     "@elonehoo/starter-unplugin": "workspace:*"
+  },
+  "devDependencies": {
+    "vite": "^4.1.1",
+    "vite-plugin-inspect": "^0.7.15"
   }
 }
