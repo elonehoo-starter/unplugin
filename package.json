@@ -88,19 +88,19 @@
     "unplugin": "^1.3.1"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.37.0",
-    "@types/node": "^18.15.5",
-    "@vitest/ui": "^0.29.7",
-    "bumpp": "^9.0.0",
+    "@antfu/eslint-config": "^0.38.4",
+    "@types/node": "^18.15.11",
+    "@vitest/ui": "^0.30.1",
+    "bumpp": "^9.1.0",
     "chalk": "^5.2.0",
-    "eslint": "^8.36.0",
+    "eslint": "^8.38.0",
     "fast-glob": "^3.2.12",
-    "rollup": "^3.20.0",
+    "rollup": "^3.20.4",
     "tsup": "^6.7.0",
     "tsx": "^3.12.6",
-    "typescript": "^4.9.5",
+    "typescript": "^5.0.4",
     "vite": "^4.2.1",
-    "vitest": "^0.29.7",
-    "webpack": "^5.76.2"
+    "vitest": "^0.30.1",
+    "webpack": "^5.79.0"
   }
 }
