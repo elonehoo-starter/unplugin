@@ -10,7 +10,7 @@
     "@elonehoo/starter-unplugin": "workspace:*"
   },
   "devDependencies": {
-    "vite": "^5.1.5",
+    "vite": "^5.2.6",
     "vite-plugin-inspect": "^0.8.3"
   }
 }
